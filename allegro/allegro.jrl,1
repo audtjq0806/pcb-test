@@ -1,0 +1,67 @@
+\t (00:00:11) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:11)     Journal start - Tue Jul 16 17:19:43 2019
+\t (00:00:11)         Host=USER-PC User=user Pid=6092 CPUs=4
+\t (00:00:11) CmdLine= C:\Users\user\Downloads\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORK\메추라기\allegro\TEST.brd
+\t (00:00:11) 
+   (00:00:11) ilinit Start.
+   (00:00:11) "C:/Users/user/Downloads/vscode_orcad/home/pcbenv"
+\t (00:00:12) Opening existing design...
+\d (00:00:12) Design opened: C:/USERS/USER/DESKTOP/WORK/메추라기/allegro/TEST.brd
+\i (00:00:12) trapsize 10372
+\i (00:00:12) trapsize 10186
+\i (00:00:12) trapsize 10404
+\i (00:00:12) trapsize 10599
+\i (00:00:12) trapsize 9189
+\i (00:00:12) trapsize 13682
+\i (00:00:13) generaledit 
+\i (00:00:15) place manual 
+\i (00:00:17) setwindow form.plc_manual
+\i (00:00:17) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\w (00:00:17) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:17) Placing IC1 / ATMEGA48-MLF32_0_ATMEGA328P_ATM / ATMEGA328P on Top.
+\i (00:00:17) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) pick grid 10781.09 12149.25
+\t (00:00:21) last pick:  10800.00 12100.00
+\i (00:00:22) setwindow form.plc_manual
+\i (00:00:22) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\t (00:00:22) Placing IC2 / ATMEGA48-MLF32_0_ATMEGA328P_ATM / ATMEGA328P on Top.
+\i (00:00:22) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) pick grid 12450.25 12149.25
+\t (00:00:24) last pick:  12500.00 12100.00
+\i (00:00:27) setwindow form.plc_manual
+\i (00:00:27) FORM plc_manual done  
+\i (00:00:27) setwindow pcb
+\i (00:00:27) generaledit 
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 11000.00 12477.61
+\i (00:00:28) trapsize 6841
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 11301.00 12409.21
+\i (00:00:28) trapsize 3420
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 11506.22 11875.63
+\i (00:00:29) trapsize 1710
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 11506.22 11875.63
+\i (00:00:29) trapsize 855
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 11253.11 11921.81
+\i (00:00:31) trapsize 1710
+\i (00:00:31) prepopup 11301.00 11685.80
+\i (00:00:32) pick grid 11136.82 11730.27
+\t (00:00:32) last pick:  11100.00 11700.00
+\i (00:00:33) drag_start grid 13240.36 12568.27
+\i (00:00:33) drag_stop 10527.99 11374.55
+\i (00:00:34) pick grid 11749.07 12246.75
+\t (00:00:34) last pick:  11700.00 12200.00
+\i (00:00:37) exit 
+\e (00:00:37) Do you want to save the changes you made to TEST.brd?
+\i (00:00:39) fillin no 
+\t (00:00:39)     Journal end - Tue Jul 16 17:20:11 2019
